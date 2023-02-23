@@ -1,0 +1,11 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-stretch: expanded;
+}
+
+p:hover{
+    color: indigo;
+    background-color: rgba(254, 254, 2, 0.5);
+    cursor:pointer;
+}
